@@ -12,7 +12,7 @@
 		start:   'cd <path> && node wiki start 
 }  
 ```
-*  Commands: WikiJs: [path](file:///d:/WikiJs/)
+*  Commands: WikiJs: [path]('file:///d:/WikiJs/')
 
 ### XAMPP ###
 ```text
