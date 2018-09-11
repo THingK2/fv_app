@@ -2,6 +2,8 @@
 <!-- SUBTITLE: Entwicklung von apps mittels Js, NodeJs, MongoDB, ... -->
 
 # Startseite WikiJs
+[Markdown Syntax](https://docs-legacy.requarks.io/wiki/user-guide/markdown-syntax)
+
 ### Dieses Wiki ###
 ```text
 { provide: localhost,
@@ -10,7 +12,7 @@
 		start:   'cd <path> && node wiki start 
 }  
 ```
-*  Commands: WikiJs
+*  Commands: WikiJs: [path](D:/WikiJs/)
 
 ### XAMPP ###
 ```text
