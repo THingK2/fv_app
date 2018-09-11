@@ -1,4 +1,10 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Startseite -->
+<!-- SUBTITLE: Entwicklung von apps mittels Js, NodeJs, MongoDB, ... -->
 
-# Start endlich!!!
+# Startseite WikiJs
+```text
+{ provide: localhost,
+  port:    80
+}  
+```
+
